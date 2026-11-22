@@ -1,4 +1,4 @@
-Group Project for Fall 2026 for SE3050 Database Systems Project Members: Bilal Ahmed, Nellie Petersen, Tanisha Beaulieu
+Group Project for Fall 2026 for SE3050 Database Systems Project Members: Bilal Ahmed and Nellie Petersen
 # Market Management Database
 
 ## Project Proposal
