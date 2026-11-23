@@ -66,3 +66,5 @@ Please enter an amount and verify the order.
 Open MySQL Workbench to check that the order was saved and the inventory was updated.
 
 ## Video Demonstration
+
+https://drive.google.com/file/d/1xRxG7l-mS2aDfmP1FFSEQiP40o-6aVrT/view?usp=sharing
